@@ -26,7 +26,7 @@ body {
 	margin: 0;
 	background: linear-gradient(rgb(105, 19, 255), rgb(59, 8, 110));
 	background-repeat: no-repeat;
-	height: 1200px;
+	height: 95vh;
 }
 h1 {
 	text-align: center;
